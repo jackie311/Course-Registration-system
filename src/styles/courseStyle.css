@@ -1,0 +1,18 @@
+.inputrow{
+    margin-top: 20px;
+    
+}
+
+.formcontainer{
+    width: 70%;
+}
+
+#left, #right {
+    float: left;
+    width: 50%; 
+}
+
+.btn-left-mag {
+    margin-left: 20%;
+}
+
